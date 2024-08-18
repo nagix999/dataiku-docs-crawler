@@ -16,7 +16,7 @@ This repository contains code for crawling Dataiku documentation. The collected 
 1. Clone the repository:
 
 ```
-git clone ~
+git clone https://github.com/nagix999/dataiku-docs-crawler.git
 ```
 
 2. Navigate to the project directory:
